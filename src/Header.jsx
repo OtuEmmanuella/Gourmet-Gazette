@@ -6,11 +6,7 @@ export default function Header() {
     <>
       <header>
         <div className="Heading container">
-          <img
-            src="/public/logo.svg"
-            alt="Gourmet Gazette Logo"
-            className="logo"
-          />
+          <img src="/public/logo.svg" className="logo" />
           <p className="title">Gourmet Gazette</p>
         </div>
       </header>
