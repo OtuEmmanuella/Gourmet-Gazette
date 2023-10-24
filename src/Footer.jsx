@@ -6,7 +6,7 @@ export default function Footer() {
     <>
       <footer>
         <div className="footer">
-          <img src="/public/logo.svg" className="logo" />
+          <img src="./logo.svg" className="logo" />
           <p className="title">Gourmet Gazette</p>
         </div>
       </footer>
